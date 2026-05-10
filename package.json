@@ -1,21 +1,26 @@
 {
   "name": "@oiij/tsconfig",
-  "version": "0.0.1",
-  "description": "oiij's tsconfig",
+  "version": "0.0.2",
+  "description": "My shared TypeScript configuration",
   "author": "oiij",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oiij/tsconfig.git"
+  },
+  "homepage": "https://github.com/oiij/tsconfig#readme",
+  "bugs": {
+    "url": "https://github.com/oiij/tsconfig/issues"
+  },
   "keywords": [
     "tsconfig",
-    "typescript"
+    "typescript",
+    "config"
   ],
   "files": [
-    "package.json",
     "tsconfig.json"
   ],
   "scripts": {
     "release": "npm publish --access public"
-  },
-  "devDependencies": {
-    
   }
 }

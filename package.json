@@ -1,6 +1,6 @@
 {
   "name": "@oiij/tsconfig",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "My shared TypeScript configuration",
   "author": "oiij",
   "license": "MIT",

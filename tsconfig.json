@@ -12,11 +12,15 @@
     "allowJs": true,
     "isolatedModules": true,
     "resolvePackageJsonExports": true,
-    "resolvePackageJsonMain": true,
 
     "strict": true,
     "noUncheckedIndexedAccess": true,
     "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noImplicitOverride": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "exactOptionalPropertyTypes": true,
     "noFallthroughCasesInSwitch": true,
 
     "esModuleInterop": true,
